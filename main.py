@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import telebot,random
 from qiwi import *
 token = '1347566794:AAE9L1SBoTGT8peiqxjwb4yyUugr1MsLauQ'
